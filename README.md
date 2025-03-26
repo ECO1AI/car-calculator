@@ -113,6 +113,6 @@ change colors and so on
 
 ### lastly print
 
-on "output" sheet, press 'Ctrl + p' to print the sheep
+on "output" sheet, press 'Ctrl + p' to print the sheet
 
 and enjoy
