@@ -122,3 +122,4 @@ For any suggestions, feel free to open discussion
 
 ## To Do:
 - add development documentations
+- make it a web app
