@@ -116,3 +116,9 @@ change colors and so on
 on "output" sheet, press 'Ctrl + p' to print the sheet
 
 and enjoy
+
+## you have an idea?
+For any suggestions, feel free to open discussion
+
+## To Do:
+- add development documentations
