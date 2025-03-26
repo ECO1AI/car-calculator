@@ -42,7 +42,7 @@ then redline limit (the fastest your engine can run)
 
 #### Gear ratio:
 
-if you have Transmission and differential gear ratio then check the box:
+if you have Transmission and differential gear ratio then check the box(these are usually found in the data sheet of the transmission):
 
     if you have final gear ration (both combined) then set differential gear ratio to 1 and fill the rest in the table bellow
 
@@ -53,27 +53,29 @@ then insert gear ratio per gear(shift)
 ![Screenshot_٢٠٢٥٠٣٢٦_٠٢٣٠٤٦](https://github.com/user-attachments/assets/2ee108d5-19d8-42f1-81b1-a37f45d257d5)
 
 
-if you dont have, dont worry and uncheck it
+**if you dont have, dont worry and uncheck it**
 
 then insert speed and RPM (**how do i get them?**)
 
 
 
-to get speed and RPM you need OBD2 adapter and an app like [torque]([Torque OBD 2 engine diagnostics — Torque](https://torque-bhp.com/software/torque-android-obd2-adapters/)) , then set it up to show RPM and Speed
+to get speed and RPM you need OBD2 adapter and an app like [torque](https://torque-bhp.com/software/torque-android-obd2-adapters/) , then set it up to show RPM and Speed
 
-after that you need to go through each shift and take a screen shot for every shift near the specified RPM per transmission:
+after that you need to go through each shift and take a screen-shot for every shift near the specified RPM per transmission:
 
-for MT RPM of 1500 is good enough
+for MT (you dont need any clutch slippage) RPM of 1200 is good enough
 
-for AMT and DCT it is better to keep RPM at 2000
+for AMT and DCT it is better to keep RPM at 1700
 
 for AT with torque converter RPM > 2000
 
-**Note1: for AMT,DCT,AT use manual mode of shift limiters**
+**Note1: for AMT,DCT,AT use manual mode or shift limiters**
 
 **Note2: for AT be sure that torque converter is locked and is not slipping.**
 
-**Note3: adhere to traffic laws and insure your and surrounding safety.**
+**Note3: when taking a screen shot, its better to be driving at constent speed**
+
+**Note4: adhere to traffic laws and insure your and surrounding safety.**
 
 
 
@@ -111,6 +113,6 @@ change colors and so on
 
 ### lastly print
 
-on "output" sheet, press Ctrl + p o print the sheep
+on "output" sheet, press 'Ctrl + p' to print the sheep
 
 and enjoy
