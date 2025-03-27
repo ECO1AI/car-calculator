@@ -16,6 +16,8 @@ ________________________________________________________________________________
 
 5- accepts either measured date or from datasheet
 
+[**output example**](https://github.com/ECO1AI/car-calculator/blob/main/car-calculator-output-example.pdf)
+
 ## How to use:
 
 ### 1- download latest release from [releases page](https://github.com/ECO1AI/car-calculator/releases/)
